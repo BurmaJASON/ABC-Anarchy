@@ -1,0 +1,46 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #fdfdfd;
+   
+}
+.bar{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.boxone{
+    display: flex;
+    margin: 20px;
+    border: 3px solid black;
+    padding: 15px;
+}
+.content{
+    margin: 10px;
+    padding: 20px;
+}
+.the-beginning{
+    display: flex;
+    border: 3px dotted black;
+    margin: 15px;
+    padding: 5px;
+    width: 80%;
+}
+.note{
+    margin: 10px;
+    padding: 15px;
+}
+ul{
+    display: inline-block;
+    max-width: max-content;
+
+    background-image: url(history.jpg);
+    background-repeat: no-repeat;
+    margin-left: 300px;
+    padding: 150px 35px 150px 35px;
+    
+}
+.address{
+    align-items: flex-end;
+}
+.video{
+    display: flex;
+}
